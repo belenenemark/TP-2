@@ -1,0 +1,23 @@
+git config --global user.name "mujicamartin"
+git config --global user.email "mujicamartin@gmail.com"
+git config --global color.ui auto
+
+git clone http://....../name  ///clona un repo
+cd name
+git status
+
+
+
+git init  /// inicia un repo en la pc, en la carpeta en la que estoy
+
+
+----- leer Markdown
+
+git add hola.md
+git commit -m "mensaje del commit"
+
+git remote 
+
+git remote -v
+
+git branch
